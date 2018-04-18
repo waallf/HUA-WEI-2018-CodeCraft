@@ -2,6 +2,7 @@
 西北赛区41名
 
 stock_predict_with_LSTM-master.zip：预测时找的股票预测资料
+
 ecs:  执行 python ecs.py /xxx/TrainData.txt /xxx/input.txt /xxx/output.txt
 
 predicter.py : 主文件
