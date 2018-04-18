@@ -1,0 +1,28 @@
+56 128 5
+
+15
+flavor1 1 1024
+flavor2 1 2048
+flavor3 1 4096
+flavor4 2 2048
+flavor5 2 4096
+flavor6 2 4096
+flavor7 2 4096
+flavor8 2 4096
+flavor9 2 4096
+flavor10 2 4096
+flavor11 2 4096
+flavor12 2 4096
+flavor13 2 4096
+flavor14 2 4096
+flavor15 2 4096
+
+MEM
+
+2015-05-21 00:00:00
+2015-05-30 00:00:00
+
+
+
+
+

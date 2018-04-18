@@ -1,0 +1,75 @@
+452
+flavor1 45
+flavor10 14
+flavor11 35
+flavor12 59
+flavor13 18
+flavor14 26
+flavor15 38
+flavor2 58
+flavor3 14
+flavor7 29
+flavor8 88
+flavor9 28
+
+60
+1 flavor14 1 flavor13 1 flavor12 2 flavor10 1
+2 flavor14 1 flavor13 1 flavor12 2 flavor10 1
+3 flavor14 1 flavor13 1 flavor12 2 flavor10 1
+4 flavor14 1 flavor13 1 flavor12 2 flavor10 1
+5 flavor15 1 flavor14 1 flavor13 1 flavor10 1
+6 flavor15 1 flavor14 1 flavor13 1 flavor10 1
+7 flavor3 1 flavor2 1 flavor1 2 flavor11 1 flavor9 2 flavor8 1 flavor15 1
+8 flavor3 1 flavor2 1 flavor1 1 flavor11 1 flavor9 2 flavor8 1 flavor15 1
+9 flavor3 1 flavor2 1 flavor1 1 flavor11 1 flavor9 2 flavor8 1 flavor15 1
+10 flavor3 1 flavor2 1 flavor1 1 flavor11 1 flavor9 2 flavor8 1 flavor15 1
+11 flavor2 1 flavor1 1 flavor7 1 flavor11 1 flavor9 2 flavor8 1 flavor15 1
+12 flavor2 1 flavor1 1 flavor7 1 flavor11 1 flavor9 2 flavor8 1 flavor15 1
+13 flavor2 1 flavor1 1 flavor7 1 flavor11 2 flavor9 1 flavor8 1 flavor15 1
+14 flavor2 1 flavor1 1 flavor14 1 flavor7 1 flavor8 3 flavor15 1
+15 flavor2 1 flavor1 1 flavor14 1 flavor7 1 flavor8 3 flavor15 1
+16 flavor2 1 flavor1 1 flavor14 1 flavor7 1 flavor8 3 flavor15 1
+17 flavor2 1 flavor1 1 flavor14 1 flavor7 1 flavor8 3 flavor15 1
+18 flavor2 1 flavor1 1 flavor14 1 flavor7 1 flavor8 3 flavor15 1
+19 flavor2 1 flavor1 1 flavor14 1 flavor7 1 flavor8 3 flavor15 1
+20 flavor2 1 flavor1 1 flavor14 1 flavor7 1 flavor8 3 flavor15 1
+21 flavor2 1 flavor1 1 flavor14 1 flavor7 1 flavor8 3 flavor15 1
+22 flavor2 1 flavor1 1 flavor14 1 flavor7 1 flavor8 3 flavor15 1
+23 flavor2 1 flavor1 1 flavor14 1 flavor7 1 flavor8 3 flavor15 1
+24 flavor2 1 flavor1 1 flavor14 1 flavor7 1 flavor8 3 flavor15 1
+25 flavor2 1 flavor1 1 flavor14 1 flavor7 1 flavor8 3 flavor15 1
+26 flavor2 1 flavor1 1 flavor14 1 flavor7 1 flavor8 3 flavor15 1
+27 flavor2 1 flavor1 1 flavor14 1 flavor7 1 flavor8 3 flavor15 1
+28 flavor2 1 flavor1 1 flavor14 1 flavor7 1 flavor8 3 flavor15 1
+29 flavor2 1 flavor1 1 flavor14 1 flavor7 1 flavor8 3 flavor15 1
+30 flavor2 1 flavor1 1 flavor14 1 flavor7 1 flavor8 3 flavor15 1
+31 flavor2 1 flavor1 1 flavor7 1 flavor9 1 flavor8 1 flavor15 1 flavor13 1 flavor11 1
+32 flavor2 1 flavor1 1 flavor7 1 flavor9 1 flavor8 1 flavor15 1 flavor13 1 flavor11 1
+33 flavor2 1 flavor1 1 flavor7 1 flavor9 1 flavor8 1 flavor15 1 flavor13 1 flavor11 1
+34 flavor2 1 flavor1 1 flavor7 1 flavor9 1 flavor8 1 flavor15 1 flavor13 1 flavor11 1
+35 flavor2 1 flavor1 1 flavor7 1 flavor9 1 flavor8 1 flavor15 1 flavor13 1 flavor11 1
+36 flavor2 1 flavor1 1 flavor7 1 flavor9 1 flavor8 1 flavor15 1 flavor13 1 flavor11 1
+37 flavor2 1 flavor1 1 flavor7 1 flavor9 1 flavor8 1 flavor15 1 flavor13 1 flavor11 1
+38 flavor2 1 flavor1 1 flavor7 1 flavor9 1 flavor8 1 flavor15 1 flavor13 1 flavor11 1
+39 flavor2 1 flavor1 1 flavor7 1 flavor9 1 flavor8 1 flavor15 1 flavor13 1 flavor11 1
+40 flavor2 3 flavor1 1 flavor14 1 flavor13 1 flavor12 2 flavor8 1
+41 flavor2 3 flavor1 1 flavor14 1 flavor13 1 flavor12 2 flavor8 1
+42 flavor2 3 flavor1 1 flavor14 1 flavor13 1 flavor12 2 flavor8 1
+43 flavor3 1 flavor2 2 flavor8 1 flavor12 3 flavor11 1
+44 flavor3 1 flavor2 2 flavor8 1 flavor12 3 flavor11 1
+45 flavor3 1 flavor2 2 flavor8 1 flavor12 3 flavor11 1
+46 flavor3 1 flavor2 2 flavor8 1 flavor12 3 flavor11 1
+47 flavor3 1 flavor2 2 flavor8 1 flavor12 3 flavor11 1
+48 flavor3 1 flavor2 2 flavor8 1 flavor12 3 flavor11 1
+49 flavor3 1 flavor2 1 flavor1 2 flavor12 3 flavor11 1 flavor8 1
+50 flavor3 1 flavor2 1 flavor1 2 flavor11 1 flavor9 2 flavor8 1 flavor15 1
+51 flavor3 1 flavor2 1 flavor1 2 flavor11 1 flavor9 2 flavor8 1 flavor15 1
+52 flavor3 1 flavor2 1 flavor1 2 flavor11 1 flavor9 2 flavor8 1 flavor15 1
+53 flavor8 1 flavor12 3 flavor11 1 flavor10 1
+54 flavor8 1 flavor12 3 flavor11 1 flavor10 1
+55 flavor8 1 flavor12 3 flavor11 1 flavor10 1
+56 flavor8 1 flavor12 3 flavor11 1 flavor10 1
+57 flavor8 1 flavor12 3 flavor11 1 flavor10 1
+58 flavor8 1 flavor12 3 flavor11 1 flavor10 1
+59 flavor8 1 flavor12 3 flavor11 1 flavor10 1
+60 flavor8 1 flavor12 3 flavor11 1 flavor10 1
